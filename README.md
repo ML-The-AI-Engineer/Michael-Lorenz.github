@@ -53,6 +53,12 @@ I'm especially passionate about developing **AI-powered frameworks** that integr
   https://www.researchgate.net/profile/Michael-Lorenz-14
 - **ORCID** - R&D Publications  
   https://orcid.org/0009-0009-1186-8298
+- **Semantic Scholar** - R&D Publications  
+  https://www.semanticscholar.org/author/Michael-Lorenz/2308043299/
+- **Academia.edu** - R&D Publications  
+  https://kit.academia.edu/MichaelLorenz
+- **Zenodo Community** - ML The AI Engineer R&D Publications  
+  https://zenodo.org/communities/michael-lorenz-msc-energy-environment-technology-kit
 - **Credly** - Verified Certifications  
   https://www.credly.com/users/michaellorenz
 
@@ -175,7 +181,7 @@ I'm especially passionate about developing **AI-powered frameworks** that integr
 ### 🌐 Other & Local
 
 - **Google Maps Profile** - Local Reviews & Contributions  
-https://www.google.com/maps/contrib/115711465985712006963/reviews/@48.61687,9.2222913,8z/data=!3m1!4b1!4m3!8m2!3m1!1e1?entry=ttu&g_ep=EgoyMDI1MDIwMy4wIKXMDSoASAFQAw%3D%3D
+  https://www.google.com/maps/contrib/115711465985712006963/reviews/@48.61687,9.2222913,8z/data=!3m1!4b1!4m3!8m2!3m1!1e1?entry=ttu&g_ep=EgoyMDI1MDIwMy4wIKXMDSoASAFQAw%3D%3D
 - **Local Guides Connect** - Community Engagement  
   https://www.localguidesconnect.com/u/Michael_Lorenz/summary
 - **Google Site** - Central Hub & Portfolio  
