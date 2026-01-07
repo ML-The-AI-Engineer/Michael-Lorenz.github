@@ -101,6 +101,8 @@ I'm especially passionate about developing **AI-powered frameworks** that integr
   https://www.amazon.com/author/michaellorenz
 - **Amazon Kindle Direct Publishing Page** – Profile Page  
   https://www.kdpcommunity.com/s/profile/005at000001pdjV
+- **Grokipedia Page** – Profile Page  
+  https://grokipedia.com/page/michael-lorenz
 
 ### 🤖 AI Tools & Strategic GPTs
 
