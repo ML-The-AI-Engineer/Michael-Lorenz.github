@@ -59,6 +59,8 @@ I'm especially passionate about developing **AI-powered frameworks** that integr
   https://kit.academia.edu/MichaelLorenz
 - **Zenodo Community** - ML The AI Engineer R&D Publications  
   https://zenodo.org/communities/michael-lorenz-msc-energy-environment-technology-kit
+- **figshare** - R&D Publications  
+  https://figshare.com/authors/Michael_Lorenz/22965043
 - **Credly** - Verified Certifications  
   https://www.credly.com/users/michaellorenz
 
@@ -149,11 +151,11 @@ I'm especially passionate about developing **AI-powered frameworks** that integr
 
 - **Spotify Podcast Creator** - Michael Lorenz AI & Strategy  
   https://creators.spotify.com/pod/show/michaellorenz/
-- **Spotify Podcast (Substack Feed)** - Michael Lorenz, M.Sc. Energy & Environment Technology (KIT)  Podcast
+- **Spotify Podcast (Substack Feed)** - Michael Lorenz, M.Sc. Energy & Environment Technology (KIT)  Podcast 
   https://open.spotify.com/show/6cLgxVrLctWP9GlQabfkel
-- **Spotify Podcast** - Welcome to Michael Lorenz – The Podcast on AI, Digital Strategy and Future Technologies! Podcast
+- **Spotify Podcast** - Welcome to Michael Lorenz – The Podcast on AI, Digital Strategy and Future Technologies! Podcast 
   https://open.spotify.com/show/3HfSiy4rE680CiC5rXug2F
-- **Spotify Podcast RSS Feed** - Welcome to Michael Lorenz – The Podcast on AI, Digital Strategy and Future Technologies!
+- **Spotify Podcast RSS Feed** - Welcome to Michael Lorenz – The Podcast on AI, Digital Strategy and Future Technologies! 
   https://anchor.fm/s/10295b2f0/podcast/rss
 - **Substack Podcast RSS Feed** - Michael Lorenz M.Sc. Energy  
   https://api.substack.com/feed/podcast/4336081.rss
